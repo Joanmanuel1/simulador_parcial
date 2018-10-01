@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1538355360 source:c:\tp\tp_laboratorio_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"utn.h"
+	"pantalla.h"
+	"publicidad.h"
+	"informes.h"
+
+1538355382 c:\tp\tp_laboratorio_parcial\utn.h
+
+1538355375 c:\tp\tp_laboratorio_parcial\pantalla.h
+
+1538355366 c:\tp\tp_laboratorio_parcial\publicidad.h
+
+1538355384 c:\tp\tp_laboratorio_parcial\informes.h
+
+1538355303 source:c:\tp\tp_laboratorio_parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
